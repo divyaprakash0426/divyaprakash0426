@@ -13,7 +13,7 @@
 ---
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
-- 🌱 I’m currently learning how to code properly
+- 🌱 I’m currently building a multi-tenant SASS from scratch.
 - 📫 You can follow me on Linkedin. [Linkedin](https://linkedin.com/ddivyaprakash26) 🤩 Thanks alot
 ---
 
