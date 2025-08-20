@@ -19,9 +19,9 @@
 
 📊 Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyaprakash0426&theme=tokyonight)  
+![GitHub Stats](https://github-profile-summary-cards-ivory.vercel.app/api/cards/stats?username=divyaprakash0426&theme=tokyonight)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyaprakash0426&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyaprakash0426&theme=tokyonight)
+![GitHub Summary](https://github-profile-summary-cards-ivory.vercel.app/api/cards/profile-details?username=divyaprakash0426&theme=tokyonight)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/divyaprakashd)
 
