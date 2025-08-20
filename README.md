@@ -14,7 +14,7 @@
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently learning how to code properly
-- 📫 You can follow me on Linkedin. [YouTube](https://linkedin.com/ddivyaprakash26) 🤩 Thanks alot
+- 📫 You can follow me on Linkedin. [Linkedin](https://linkedin.com/ddivyaprakash26) 🤩 Thanks alot
 ---
 
 📊 Stats
