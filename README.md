@@ -20,7 +20,7 @@
 📊 Stats
 
 ![DP's GitHub stats](xxxx-seven-theta.vercel.app/api?username=divyaprakash0426&show_icons=true&&hide_border=true&theme=tokyonight&hide=stars,contribs&show=prs_merged&hide_rank=true) ![Languages by Commit](https://github-profile-summary-cards-ivory.vercel.app/api/cards/most-commit-language?username=divyaprakash0426&theme=tokyonight&exclude=jupyter%20Notebook)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=divyaprakash0426&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=200)](https://git.io/streak-stats)   ![Languages by Repo](https://github-profile-summary-cards-ivory.vercel.app/api/cards/repos-per-language?username=divyaprakash0426&theme=tokyonight&exclude=jupyter%20Notebook)
+[![GitHub Streak](github-readme-streak-stats-drab-omega.vercel.app?user=divyaprakash0426&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480&card_height=200)](https://git.io/streak-stats)   ![Languages by Repo](profile-summary-cards-zeta.vercel.app/api/cards/repos-per-language?username=divyaprakash0426&theme=tokyonight&exclude=jupyter%20Notebook)
 ![GitHub Summary](https://github-profile-summary-cards-ivory.vercel.app/api/cards/profile-details?username=divyaprakash0426&theme=tokyonight)
 
 
