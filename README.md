@@ -24,6 +24,4 @@
 ![GitHub Summary](http://profile-summary-cards-zeta.vercel.app/api/cards/profile-details?username=divyaprakash0426&theme=tokyonight)
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/divyaprakashd)
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/divyaprakash0426)
