@@ -14,7 +14,7 @@
 
 - 🔭 I'm a Linux Enthusiast who likes to play around with Computers and stuff.
 - 🌱 I’m currently building a multi-tenant SASS from scratch.
-- 📫 You can follow me on Linkedin. [Linkedin](https://linkedin.com/ddivyaprakash26) 🤩 Thanks alot
+- 📫 You can follow me on Linkedin. [Linkedin](https://linkedin.com/in/ddivyaprakash26) 🤩 Thanks alot
 ---
 
 📊 Stats
